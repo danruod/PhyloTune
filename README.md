@@ -49,7 +49,7 @@ Before running the code, you need to manually download the datasets and model pa
 
 * The dataset needs to be [downloaded](https://drive.google.com/drive/folders/1NwwAJog1_i_2X_sZKdQPaNeA0UnhPcj2) manually and stored in the datasets folder under the PhyloTune directory (`./datasets/`). This folder contains the **Plant**, ***Bordetella***, and **Simulated** datasets. Alternatively, you can directly download the zip files in the datasets directory and unzip them.
 
-* The model parameters of PhyloTune need to be [downloaded](https://drive.google.com/drive/folders/1QdMSYhDdUKIyxPNlROSnZUkV45E7UmrK) manually and stored in the checkpoints folder under the PhyloTune directory (`./checkpoints/`), or you can directly download the checkpoints.zip file and unzip it. There are two folders in total:
+* The model parameters of PhyloTune need to be [downloaded](https://drive.google.com/drive/folders/1QdMSYhDdUKIyxPNlROSnZUkV45E7UmrK) manually and stored in the checkpoints folder under the PhyloTune directory (`./checkpoints/`). There are two folders in total:
 
   * plant_dnabert: Model parameters obtained by fine-tuning the **Plant** dataset using DNABERT as the backbone.
 
